@@ -19,9 +19,6 @@ Writing is retrieving the sorted numbers.
 Writing the entire sorted numbers takes time accordingly to how big the largest number is.
 A segment of numbers can be printed.
 
-An item with multiple characteristics/attributes can be sorted or assigned onto multi-grids.
-A segment of multi-grids which satisfy a given condition can be retrieved, instead of finding overlapping parts.
-
 */
 
 window.onload = function() {
