@@ -1,6 +1,6 @@
-/* Assign Sort
+/* Grid Sort
 
-coded by Julia Hiyeon Kim (c) 2022
+coded by Julia Hiyeon Kim (2019)
 
 
 Assigning is sorting.
@@ -10,7 +10,7 @@ No comparing numbers
 
 When a new number is added for sorting, the previously sorted or assigned numbers do not move.
 
-Stable & reassignable
+Stable & Re-assignable 
 
 Sorting or assigning does not take much time.
 
@@ -18,6 +18,9 @@ Writing is retrieving the sorted numbers.
 
 Writing the entire sorted numbers takes time accordingly to how big the largest number is.
 A segment of numbers can be printed.
+
+An item with multiple characteristics/attributes can be sorted or assigned onto multi-grids.
+A segment of multi-grids which satisfy a given condition can be retrieved, instead of finding overlapping parts.
 
 */
 
