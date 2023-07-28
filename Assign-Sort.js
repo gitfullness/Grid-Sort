@@ -1,8 +1,5 @@
 /* Grid Sort
 
-coded by Julia Hiyeon Kim (2019)
-
-
 Assigning is sorting.
 
 No swapping
@@ -19,7 +16,9 @@ Writing is retrieving the sorted numbers.
 Writing the entire sorted numbers takes time accordingly to how big the largest number is.
 A segment of numbers can be printed.
 
+Julia Hiyeon Kim (2019)
 */
+
 
 window.onload = function() {
 
